@@ -1,4 +1,4 @@
-PDFreadbot功能
+##PDFreadbot功能
 1. 读取PDF文件
 2. 适配笔记本电脑进行半屏阅读PDF文档
 3. 阅读PDF文档时，保持纵横比例
@@ -10,6 +10,9 @@ PDFreadbot功能
 
 ##运行
 运行: python main.py
+
+##联系我
+8691166@qq.com
 
 
 
